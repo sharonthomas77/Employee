@@ -23,6 +23,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/search">Search</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/aboutus">Aboutus</a>
+        </li>
       </ul>
     </div>
   </div>
